@@ -1,12 +1,4 @@
-﻿/*****************************************************
- * Assignment: 2                                     *
- * Due Date: Thursday, 27th Sep                      *
- *                                                   *
- * Name: Komal Thakkar (Z1834925)                    *
- * Partner Name: Sai Keerthi Tsundupalli (Z1836733)  *
- *                                                   *
- ****************************************************/
-
+﻿
 using System;
 using System.Collections.Generic;
 
